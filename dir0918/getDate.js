@@ -1,3 +1,4 @@
+// xxxx-xx-xx x요일 AM|PM xx:xx 형식으로 날짜 출력하기
 const noon = 12;
 let date = new Date();
 let year = date.getFullYear();
