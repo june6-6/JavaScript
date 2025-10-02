@@ -25,7 +25,7 @@ function drawStarForward(height) {
                 output += '*';
         }
         output += '\n';
-    }
+    } 
     return output;
 }
 

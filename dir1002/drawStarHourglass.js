@@ -18,7 +18,7 @@ function drawStarHourglass(height) {
             output += ' ';
         }
         for (let k = 0; k <= 2*i; k++ ) {
-            output += '*';
+            output += '*'; 
         }
         output += '\n';
     }
